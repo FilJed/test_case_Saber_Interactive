@@ -1,5 +1,7 @@
 # Решение тестового задания
 
+[Взято отсюда](https://drive.google.com/drive/folders/1erJ45IKnKGOutmnAV20M-fEa6MRplVWY)
+
 ## SQL
 
 Поля таблицы history
